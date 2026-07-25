@@ -1,0 +1,6 @@
+{
+  "name": "Zoya Voice Assistant",
+  "description": "A sassy, witty, real-time AI voice assistant with deep Android control and hands-free background activation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
